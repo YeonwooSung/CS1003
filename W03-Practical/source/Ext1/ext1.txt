@@ -1,0 +1,17 @@
+Total number of invoice in January: 0
+Total number of invoice in February: 0
+Total number of invoice in March: 0
+Total number of invoice in April: 0
+Total number of invoice in May: 0
+Total number of invoice in Jun: 0
+Total number of invoice in July: 0
+Total number of invoice in August: 0
+Total number of invoice in September: 0
+Total number of invoice in October: 0
+Total number of invoice in November: 0
+Total number of invoice in December: 541907
+
+Sum of Total Prices: 9769872.053999986
+Total number of Invoices: 25899
+Stock Code: Quantity
+Total number of stock: 4070
